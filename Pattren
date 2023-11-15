@@ -22,3 +22,19 @@ public class Pattn {
 		}
 		}
 }
+
+
+
+///////////////
+
+
+public class Driver {
+
+	public static void main(String[] args) {
+
+		
+		Pattn p = new Pattn();
+		p.revTri(5);
+	}
+
+}
